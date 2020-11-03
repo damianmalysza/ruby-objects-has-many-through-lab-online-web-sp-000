@@ -22,7 +22,7 @@ class Artist
   end
 
   def genres
-    
+    songs.collect
   end
 
 end
