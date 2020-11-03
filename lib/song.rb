@@ -8,7 +8,7 @@ class Song
   end
 
   def initialize(name,artist,genre)
-
+    
   end
 
 end
