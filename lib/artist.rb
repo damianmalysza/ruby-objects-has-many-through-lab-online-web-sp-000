@@ -3,7 +3,7 @@ class Artist
 
   @@all = []
 
-  def ini
+  def initialize(name)
 
   def self.all
     @@all
