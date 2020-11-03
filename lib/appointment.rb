@@ -8,4 +8,6 @@ class Appointment
   end
 
   def initialize(date,patient,doctor)
+
+  end
 end
