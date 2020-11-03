@@ -7,6 +7,8 @@ class Patient
     @@all
   end
 
+  def initialize(name)
+
   def new_appointment(date,doctor)
     Appointment.new(date,self,doctor)
   end
