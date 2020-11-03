@@ -11,5 +11,6 @@ class Genre
   def all
     @@all
   end
-  
+
+  def songs
 end
